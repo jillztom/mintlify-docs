@@ -19,6 +19,10 @@
     {
       "name": "Support",
       "url": "mailto:hi@mintlify.com"
+    },
+    {
+      "name": "APIs",
+      "url": "api-reference"
     }
   ],
   "topbarCtaButton": {
