@@ -15,7 +15,7 @@
       "to": "#07C983"
     }
   },
-  "theme": "prism",
+  "theme": "quill",
   "topbarLinks": [
     {
       "name": "Support",
