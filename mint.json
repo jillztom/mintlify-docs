@@ -16,7 +16,7 @@
     }
   },
   "theme": "quill",
-  "layout": "solidSidenav",
+  "layout": "sidenav",
   "topbarLinks": [
     {
       "name": "Support",
